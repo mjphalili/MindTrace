@@ -8,3 +8,5 @@ As of May 5th, 2026, use CleanerP2 to fill in the moods and compute for reading 
 As of May 6th, 2026, merged Uma's books + Google Books, used Merger.ipynb (adds books.csv), Refill.ipynb (fills in the mood etc.) and PublishDateFix.ipynb (separated exact published date and published_year since published_year is more complete). Books total is now 19054, end up with book_recommender_dataset.csv
 
 As of May 21, 2026, you can open the BookID_Filler + dataset_WithID.zip file containing the dataset with complete 'book_ID' that we can use for matching and other steps for Tokenization.
+
+As of May 21, 2026, the transformer and vector similarity search model is now working in Transformer_Vector_SimilaritySearch.ipynb
